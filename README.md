@@ -7,3 +7,8 @@ Proyecto para un TO DO LIST que incluye las siguientes funciones:
 . Mostrar tareas
 
 . Eliminar tareas  
+
+Tecnologías usadas: PHP y MySQL, HTML, CSS
+
+
+
